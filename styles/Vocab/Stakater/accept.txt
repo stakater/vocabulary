@@ -1,4 +1,4 @@
-(S|@s)takater
+(S|s)takater
 [aA]dd[oO]n
 [aA]utoscalers
 [aA]utoscaling
