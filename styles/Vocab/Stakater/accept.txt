@@ -11,6 +11,7 @@
 [Mm]iddleware
 [Mm]ultitenancy
 [Nn]amespace[s]?
+[Oo]nboarding
 [Rr]eadiness
 [Rr]epo[s]?
 [Rr]ole[Bb]inding
@@ -59,6 +60,7 @@ GitOps
 GitVersion
 Gradle
 Grafana
+Gravatar
 Helm
 hostname
 HPA
@@ -71,6 +73,7 @@ iPad[s]?
 Istio
 JBoss
 Jenkins
+Jira
 JMeter
 json
 JSON
@@ -100,7 +103,6 @@ npm
 NPM
 NuGet
 OAuth
-onboarding
 onDelete
 OpenShift
 OpenStack
