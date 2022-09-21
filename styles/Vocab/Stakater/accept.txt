@@ -11,6 +11,7 @@
 [Mm]iddleware
 [Mm]ultitenancy
 [Nn]amespace[s]?
+[Oo]ffboarding
 [Oo]nboarding
 [Rr]eadiness
 [Rr]epo[s]?
@@ -113,6 +114,7 @@ RBAC
 Rego
 Reloader
 RHACS
+runbook[s]?
 runtime[s]?
 SCC[s]?
 SCM[s]?
