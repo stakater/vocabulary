@@ -1,5 +1,6 @@
 (S|s)takater
 [aA]dd[oO]n
+[Aa]uditable
 [aA]utoscalers
 [aA]utoscaling
 [Cc]onfig
@@ -16,10 +17,13 @@
 [Oo]nboarding
 [Rr]eadiness
 [Rr]epo[s]?
+[Rr]eusability
 [Rr]ole[Bb]inding
 [sS]andboxed
 [Ss]ervice[Aa]ccount
+[Uu]ncomment
 Alertmanager
+Ansible
 apigroup[s]?
 APIs
 ArgoCD
@@ -33,6 +37,8 @@ boolean
 buildah
 buildpack
 Bundler
+Burndown
+Burnup
 Ceph
 Certmanager
 classpath
@@ -44,9 +50,13 @@ CRD[s]?
 cron
 CustomResourceDefinitions
 CVE[s]?
+declaratively
 deletecollection
+deliverable[s]?
+Demiguise
 Docker Hub
 DTE[s]?
+ebook[s]?
 ENI[s]?
 eppn
 etcd
@@ -81,12 +91,14 @@ JMeter
 json
 JSON
 jsonnet
+JUnit
 JWTs
 Katacoda
 Kiali
 Kibana
 Konfigurator
 ksonnet
+Kube
 kubectl
 kubelet[s]?
 Kubernetes
@@ -94,13 +106,17 @@ kubeseal
 Kustomize
 Kyverno
 labelSelector
+learning[s]?
 Linkerd
 Logstash
 MachineSet[s]?
 Makefile
 Matomo
+Mattermost
 Maven
+Mobius
 modularization
+MongoDB
 NFS
 Nordmart
 npm
@@ -112,8 +128,10 @@ OpenShift
 OpenStack
 Postgres
 Prometheus
+Proto
 PV[s]?
 RBAC
+Realtime
 Rego
 Reloader
 RHACS
@@ -130,6 +148,7 @@ SLA[s]?
 SLI[s]?
 SLO[s]?
 SonarQube
+Sonatype
 Splunk
 springboot
 SRE[s]?
@@ -141,6 +160,7 @@ Subnetworks
 Sumologic
 Syslog
 Tekton
+Telco
 Tiltfile
 toc
 toolset
