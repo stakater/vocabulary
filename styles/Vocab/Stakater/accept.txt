@@ -5,11 +5,13 @@
 [aA]utoscaling
 [Cc]onfig
 [dD]aemonset
+[Dd]eliverable[s]?
 [Dd]ev
 [Dd]ockerfile[s]?
 [Kk]anban
 [kK]eycloak
 [Ll]iveness
+[Mm]etamodel[s]?
 [Mm]iddleware
 [Mm]ultitenancy
 [Nn]amespace[s]?
@@ -22,6 +24,8 @@
 [sS]andboxed
 [Ss]ervice[Aa]ccount
 [Uu]ncomment
+ADR[s]?
+Akerman
 Alertmanager
 Ansible
 apigroup[s]?
@@ -52,7 +56,7 @@ CustomResourceDefinitions
 CVE[s]?
 declaratively
 deletecollection
-deliverable[s]?
+[Dd]eliverable[s]?
 Demiguise
 Docker Hub
 DTE[s]?
@@ -64,6 +68,7 @@ Fabrikate
 Falco
 Fluentd
 Forecastle
+formatter[s]?
 FQDN[s]?
 Gemfire
 gitBranch
@@ -117,6 +122,7 @@ Maven
 Mobius
 modularization
 MongoDB
+Nasdaq
 NFS
 Nordmart
 npm
@@ -138,6 +144,7 @@ RHACS
 roadmap[s]?
 runbook[s]?
 runtime[s]?
+saml
 SCC[s]?
 SCM[s]?
 sealedsecret[s]?
@@ -181,4 +188,3 @@ VPC[s]?
 webserver
 yaml
 YAML
-saml
