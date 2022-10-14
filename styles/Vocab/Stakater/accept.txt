@@ -6,6 +6,8 @@
 [Cc]onfig
 [dD]aemonset
 [Dd]eliverable[s]?
+[Dd]eliverable[s]?
+[Dd]eserialize
 [Dd]ev
 [Dd]ockerfile[s]?
 [Kk]anban
@@ -56,7 +58,6 @@ CustomResourceDefinitions
 CVE[s]?
 declaratively
 deletecollection
-[Dd]eliverable[s]?
 Demiguise
 Docker Hub
 DTE[s]?
