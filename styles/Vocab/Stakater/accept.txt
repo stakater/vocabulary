@@ -182,3 +182,11 @@ webserver
 yaml
 YAML
 saml
+ADR[s]?
+[Mm]etamodel[s]?
+Akerman
+Nasdaq
+formatters
+projectwide
+now_string
+[Dd]eliverable[s]?
