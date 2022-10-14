@@ -58,6 +58,7 @@ declaratively
 deletecollection
 [Dd]eliverable[s]?
 Demiguise
+[Dd]eserialize
 Docker Hub
 DTE[s]?
 ebook[s]?
