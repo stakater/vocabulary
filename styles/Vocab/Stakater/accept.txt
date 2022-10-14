@@ -186,7 +186,6 @@ ADR[s]?
 [Mm]etamodel[s]?
 Akerman
 Nasdaq
-formatters
-projectwide
-now_string
+formatter[s]?
+project-wide
 [Dd]eliverable[s]?
