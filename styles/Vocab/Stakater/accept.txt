@@ -56,7 +56,7 @@ CustomResourceDefinitions
 CVE[s]?
 declaratively
 deletecollection
-deliverable[s]?
+[Dd]eliverable[s]?
 Demiguise
 Docker Hub
 DTE[s]?
