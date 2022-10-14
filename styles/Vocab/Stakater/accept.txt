@@ -187,5 +187,4 @@ ADR[s]?
 Akerman
 Nasdaq
 formatter[s]?
-project-wide
 [Dd]eliverable[s]?
