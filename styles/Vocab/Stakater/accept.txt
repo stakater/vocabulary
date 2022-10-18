@@ -133,12 +133,14 @@ OAuth
 onDelete
 OpenShift
 OpenStack
+[P]odman
 Postgres
 Prometheus
 Proto
 PV[s]?
 RBAC
 Realtime
+Redhat
 Rego
 Reloader
 RHACS
