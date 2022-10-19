@@ -140,7 +140,7 @@ Proto
 PV[s]?
 RBAC
 Realtime
-Redhat
+Red[hH]at
 Rego
 Reloader
 RHACS
