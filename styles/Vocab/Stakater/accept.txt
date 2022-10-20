@@ -30,7 +30,6 @@ Alertmanager
 Ansible
 apigroup[s]?
 APIs
-api
 ArgoCD
 auditability
 auditable
