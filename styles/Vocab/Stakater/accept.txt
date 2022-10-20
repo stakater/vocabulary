@@ -173,7 +173,7 @@ Tekton
 Telco
 Tiltfile
 toc
-toolset
+[Tt]oolset
 Trivy
 Tronador
 UptimeRobot
