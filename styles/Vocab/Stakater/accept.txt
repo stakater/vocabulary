@@ -30,6 +30,7 @@ Alertmanager
 Ansible
 apigroup[s]?
 APIs
+api
 ArgoCD
 auditability
 auditable
@@ -173,7 +174,7 @@ Tekton
 Telco
 Tiltfile
 toc
-toolset
+[Tt]oolset
 Trivy
 Tronador
 UptimeRobot
