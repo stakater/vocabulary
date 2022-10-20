@@ -4,6 +4,7 @@
 [aA]utoscalers
 [aA]utoscaling
 [Cc]onfig
+[Cc]onfigmap[s]?
 [dD]aemonset
 [Dd]eliverable[s]?
 [Dd]ev
@@ -14,6 +15,7 @@
 [Mm]etamodel[s]?
 [Mm]iddleware
 [Mm]ultitenancy
+[Mm]attermost
 [Nn]amespace[s]?
 [Oo]ffboarding
 [Oo]nboarding
