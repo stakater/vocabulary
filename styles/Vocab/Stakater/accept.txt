@@ -189,5 +189,6 @@ VolumeSnapshot[s]?
 VPA[s]?
 VPC[s]?
 webserver
+wireframe[s]?
 yaml
 YAML
