@@ -59,6 +59,7 @@ CVE[s]?
 declaratively
 deletecollection
 Demiguise
+Descheduler
 Docker Hub
 Dockerfile[s]?
 DTE[s]?
@@ -143,6 +144,7 @@ Realtime
 RedHat
 Rego
 Reloader
+Restic
 RHACS
 roadmap[s]?
 runbook[s]?
