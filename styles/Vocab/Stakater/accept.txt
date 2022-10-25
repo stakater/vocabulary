@@ -8,6 +8,7 @@
 [Dd]eliverable[s]?
 [Dd]eserialize
 [Dd]ev
+[Dd]escheduler
 [Dd]iscoverability
 [Kk]anban
 [Kk]eycloak
