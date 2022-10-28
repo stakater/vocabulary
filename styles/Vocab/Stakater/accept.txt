@@ -192,5 +192,6 @@ VPA[s]?
 VPC[s]?
 webserver
 wireframe[s]?
+Wix
 yaml
 YAML
