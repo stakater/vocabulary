@@ -6,14 +6,15 @@ on:
       - 'main'
 
 jobs:
-  pr_metrics:
+  pr_check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: PR Metrics
-        uses: microsoft/PR-Metrics@v1.4.4
-        env:
-          PR_METRICS_ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        continue-on-error: true
+      - name: Description cannot be empty
+        uses: actions-ecosystem/action-regex-match@v2
+        with:
+          text: ${{github.event.pull_request.body}}
+          regex: '^$|\s+'
+          flags: gm
