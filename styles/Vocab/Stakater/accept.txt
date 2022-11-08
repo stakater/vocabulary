@@ -90,6 +90,7 @@ http[s]?
 IDP[s]?
 imagestream[s]?
 imageTag
+inaction
 IP[s]?
 iPad[s]?
 Istio
@@ -119,6 +120,7 @@ learning[s]?
 Linkerd
 Logstash
 MachineSet[s]?
+majeure
 Makefile
 Matomo
 Mattermost
