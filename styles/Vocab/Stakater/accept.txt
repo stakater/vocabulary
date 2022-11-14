@@ -128,6 +128,7 @@ Maven
 Mobius
 modularization
 MongoDB
+MTO
 Nasdaq
 NFS
 Nordmart
@@ -138,7 +139,9 @@ OAuth
 onDelete
 OpenShift
 OpenStack
+parameteriz(e|ing)
 Postgres
+preloaded
 Prometheus
 Proto
 PV[s]?
