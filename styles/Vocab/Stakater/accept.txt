@@ -25,6 +25,7 @@
 [Rr]ole[Bb]inding
 [Ss]andboxed
 [Ss]ervice[Aa]ccount
+[Ss]everability
 [Tt]oolset
 [Uu]ncomment
 ADR[s]?
@@ -180,6 +181,7 @@ Sumologic
 Syslog
 Tekton
 Telco
+Thanos
 Tiltfile
 toc
 Trivy
@@ -201,4 +203,3 @@ wireframe[s]?
 Wix
 yaml
 YAML
-Thanos
