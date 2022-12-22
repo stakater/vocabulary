@@ -84,7 +84,7 @@ GitVersion
 Gradle
 Grafana
 Gravatar
-Helm
+[Hh]elm
 hostname
 HPA
 http[s]?
