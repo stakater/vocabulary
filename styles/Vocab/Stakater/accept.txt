@@ -172,7 +172,7 @@ Splunk
 springboot
 SRE[s]?
 StackRox
-Stakater
+[Ss]takater
 stderr
 stdout
 subfield[s]?
@@ -205,4 +205,3 @@ yaml
 YAML
 dnsmasq
 oc
-stakater
