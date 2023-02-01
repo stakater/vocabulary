@@ -171,6 +171,7 @@ Sonatype
 Splunk
 springboot
 SRE[s]?
+sharded
 StackRox
 [Ss]takater
 stderr
