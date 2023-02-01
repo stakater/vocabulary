@@ -163,6 +163,7 @@ sealedsecret[s]?
 secretRef
 semver
 serverless
+sharded
 SLA[s]?
 SLI[s]?
 SLO[s]?
@@ -171,7 +172,6 @@ Sonatype
 Splunk
 springboot
 SRE[s]?
-sharded
 StackRox
 [Ss]takater
 stderr
