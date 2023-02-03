@@ -164,6 +164,7 @@ sealedsecret[s]?
 secretRef
 semver
 serverless
+sharded
 SLA[s]?
 SLI[s]?
 SLO[s]?
