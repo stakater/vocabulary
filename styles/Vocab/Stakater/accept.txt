@@ -204,6 +204,7 @@ VMWare
 VolumeSnapshot[s]?
 VPA[s]?
 VPC[s]?
+VPN
 vpn
 webserver
 wireframe[s]?
