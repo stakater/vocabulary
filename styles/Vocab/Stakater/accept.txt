@@ -11,6 +11,7 @@
 [Dd]iscoverability
 [Kk]anban
 [Kk]eycloak
+[Ll]inux
 [Ll]iveness
 [Mm]etamodel[s]?
 [Mm]iddleware
@@ -28,6 +29,7 @@
 [Ss]everability
 [Tt]oolset
 [Uu]ncomment
+[Ww]ireguard
 ADR[s]?
 Akerman
 Alertmanager
@@ -120,7 +122,6 @@ labelSelector
 learning[s]?
 Linkerd
 Logstash
-linux
 MachineSet[s]?
 majeure
 Makefile
@@ -206,7 +207,6 @@ VPC[s]?
 vpn
 webserver
 wireframe[s]?
-wireguard
 Wix
 yaml
 YAML
