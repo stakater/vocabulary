@@ -120,6 +120,7 @@ labelSelector
 learning[s]?
 Linkerd
 Logstash
+linux
 MachineSet[s]?
 majeure
 Makefile
@@ -202,8 +203,10 @@ VMWare
 VolumeSnapshot[s]?
 VPA[s]?
 VPC[s]?
+vpn
 webserver
 wireframe[s]?
+wireguard
 Wix
 yaml
 YAML
