@@ -162,6 +162,7 @@ SCC[s]?
 SCM[s]?
 sealedsecret[s]?
 secretRef
+SelectorSyncSet
 semver
 serverless
 sharded
@@ -177,6 +178,7 @@ StackRox
 [Ss]takater
 stderr
 stdout
+StorageClass
 subfield[s]?
 Subnetworks
 Sumologic
