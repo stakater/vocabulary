@@ -11,6 +11,7 @@
 [Dd]iscoverability
 [Kk]anban
 [Kk]eycloak
+[Ll]inux
 [Ll]iveness
 [Mm]etamodel[s]?
 [Mm]iddleware
@@ -28,6 +29,7 @@
 [Ss]everability
 [Tt]oolset
 [Uu]ncomment
+[Ww]ireguard
 ADR[s]?
 Akerman
 Alertmanager
@@ -202,6 +204,8 @@ VMWare
 VolumeSnapshot[s]?
 VPA[s]?
 VPC[s]?
+VPN
+vpn
 webserver
 wireframe[s]?
 Wix
