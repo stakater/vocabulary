@@ -9,6 +9,7 @@
 [Dd]eserialize
 [Dd]ev
 [Dd]iscoverability
+env
 [Kk]anban
 [Kk]eycloak
 [Ll]inux
@@ -19,11 +20,14 @@
 [Nn]amespace[s]?
 [Oo]ffboarding
 [Oo]nboarding
+ontop
 [Pp]odman
 [Rr]eadiness
 [Rr]epo[s]?
 [Rr]eusability
 [Rr]ole[Bb]inding
+saap
+SAAP
 [Ss]andboxed
 [Ss]ervice[Aa]ccount
 [Ss]everability
