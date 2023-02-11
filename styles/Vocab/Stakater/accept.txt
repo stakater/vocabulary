@@ -4,6 +4,8 @@
 [Aa]utoscaling
 [Cc]onfig
 [Cc]onfigmap[s]?
+cli
+CLI
 [Dd]aemonset
 [Dd]eliverable[s]?
 [Dd]eserialize
@@ -20,6 +22,7 @@ env
 [Nn]amespace[s]?
 [Oo]ffboarding
 [Oo]nboarding
+[Oo]nboarded
 ontop
 [Pp]odman
 [Rr]eadiness
@@ -143,6 +146,7 @@ npm
 NPM
 NuGet
 [Nn]etmaker
+netclient
 OAuth
 onDelete
 OpenShift
