@@ -76,6 +76,7 @@ Dockerfile[s]?
 DTE[s]?
 ebook[s]?
 ENI[s]?
+EOC
 eppn
 etcd
 Fabrikate
@@ -223,4 +224,3 @@ dnsmasq
 oc
 Proxmox
 Zerotier
-EOC
