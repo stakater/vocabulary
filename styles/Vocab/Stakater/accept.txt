@@ -91,6 +91,7 @@ GitHub
 GitLab
 GitOps
 GitVersion
+gpt
 Gradle
 Grafana
 Gravatar
@@ -141,6 +142,7 @@ modularization
 MongoDB
 MTO
 Nasdaq
+nfs
 NFS
 Nordmart
 npm
@@ -192,6 +194,7 @@ stdout
 StorageClass
 subfield[s]?
 Subnetworks
+sudo
 Sumologic
 Syslog
 Tekton
@@ -201,6 +204,8 @@ Tiltfile
 toc
 Trivy
 Tronador
+ubuntu
+uuid
 UptimeRobot
 URL[s]?
 utilizations
@@ -223,4 +228,5 @@ YAML
 dnsmasq
 oc
 Proxmox
+xfs
 Zerotier
