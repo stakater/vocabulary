@@ -154,6 +154,7 @@ OAuth
 onDelete
 OpenShift
 OpenStack
+PagerDuty
 parameteriz(e|ing)
 Postgres
 preloaded
