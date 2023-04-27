@@ -89,6 +89,7 @@ Fluentd
 Forecastle
 formatter[s]?
 FQDN[s]?
+gabbar
 Gemfire
 gitBranch
 GitHub
