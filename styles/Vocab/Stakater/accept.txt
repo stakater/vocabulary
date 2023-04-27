@@ -40,7 +40,7 @@ Alertmanager
 Ansible
 API[s]?
 apigroup[s]?
-ArgoCD
+[Aa]rgo[Cc][Dd]
 auditability
 auditable
 autoscale
@@ -93,7 +93,7 @@ Gemfire
 gitBranch
 GitHub
 GitLab
-GitOps
+[Gg]it[Oo]ps
 GitVersion
 gpt
 Gradle
