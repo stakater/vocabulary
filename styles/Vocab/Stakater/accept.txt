@@ -1,5 +1,6 @@
 [Aa]dd[oO]n
 [Aa]uditable
+[Aa]utoscale
 [Aa]utoscalers
 [Aa]utoscaling
 [Cc]onfig
