@@ -86,6 +86,7 @@ eppn
 etcd
 Exoscale
 Fabrikate
+[Ff]ailover
 Falco
 Fluentd
 Forecastle
