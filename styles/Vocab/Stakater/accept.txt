@@ -10,6 +10,7 @@
 [Dd]eserialize
 [Dd]ev
 [Dd]iscoverability
+[Ff]ailover
 [Hh]elm
 [Kk]anban
 [Kk]eycloak
@@ -70,6 +71,7 @@ CustomResourceDefinition[s]?
 CVE[s]?
 declaratively
 deletecollection
+Datadog
 Demiguise
 Descheduler
 dnsmasq
@@ -124,6 +126,7 @@ Katacoda
 Kiali
 Kibana
 Konfigurator
+KPI[s]?
 ksonnet
 Kube
 kubectl
