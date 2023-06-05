@@ -216,6 +216,7 @@ Telco
 Thanos
 Tiltfile
 toc
+TOC
 Trivy
 Tronador
 ubuntu
