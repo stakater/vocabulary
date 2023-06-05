@@ -240,3 +240,4 @@ xfs
 yaml
 YAML
 Zerotier
+[Cc]luster[Tt]ask[s]?
