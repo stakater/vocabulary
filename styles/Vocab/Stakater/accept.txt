@@ -3,6 +3,7 @@
 [Aa]utoscale
 [Aa]utoscalers
 [Aa]utoscaling
+[Cc]luster[Tt]ask[s]?
 [Cc]onfig
 [Cc]onfigmap[s]?
 [Dd]aemonset
@@ -240,4 +241,3 @@ xfs
 yaml
 YAML
 Zerotier
-[Cc]luster[Tt]ask[s]?
