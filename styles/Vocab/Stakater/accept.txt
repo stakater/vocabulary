@@ -3,6 +3,7 @@
 [Aa]utoscale
 [Aa]utoscalers
 [Aa]utoscaling
+ClusterTask[s]?
 [Cc]onfig
 [Cc]onfigmap[s]?
 [Dd]aemonset
