@@ -230,6 +230,7 @@ vendored
 vendoring
 VM[s]?
 VMWare
+ESXi
 VolumeSnapshot[s]?
 VPA[s]?
 VPC[s]?
