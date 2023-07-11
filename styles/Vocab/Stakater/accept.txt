@@ -3,6 +3,7 @@
 [Aa]utoscale
 [Aa]utoscalers
 [Aa]utoscaling
+[Aa]ccessor
 ClusterTask[s]?
 [Cc]onfig
 [Cc]onfigmap[s]?
