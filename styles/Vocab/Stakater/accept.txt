@@ -87,7 +87,7 @@ env
 EOC
 eppn
 etcd
-Exoscale
+[eE]xoscale
 Fabrikate
 Falco
 Fluentd
@@ -245,3 +245,11 @@ YAML
 Zerotier
 NDA[s]?
 Signup
+bootable
+Karlskrona
+[cC]leura
+[sS]ubnet
+tfvars
+[kK]ube
+txt
+[kK]eypair
