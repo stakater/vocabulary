@@ -253,3 +253,7 @@ tfvars
 [kK]ube
 txt
 [kK]eypair
+[nN]utanix
+www
+html
+addhost
