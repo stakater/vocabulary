@@ -257,6 +257,5 @@ txt
 [nN]utanix
 www
 html
-addhost
 master_state
 worker_state
