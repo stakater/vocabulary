@@ -258,3 +258,5 @@ txt
 www
 html
 addhost
+master_state
+worker_state
