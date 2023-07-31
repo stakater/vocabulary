@@ -15,7 +15,7 @@
 [eE]xoscale
 [Ff]ailover
 [Hh]elm
-[Hh]aproxy
+HAProxy
 [Kk]anban
 [Kk]eycloak
 [kK]eypair
