@@ -15,6 +15,7 @@
 [eE]xoscale
 [Ff]ailover
 [Hh]elm
+[Hh]aproxy
 [Kk]anban
 [Kk]eycloak
 [kK]eypair
