@@ -4,6 +4,8 @@
 [Aa]utoscale
 [Aa]utoscalers
 [Aa]utoscaling
+[Bb]aremetal
+bare-metal
 [cC]leura
 [Cc]onfig
 [Cc]onfigmap[s]?
@@ -36,6 +38,7 @@ HAProxy
 [Rr]epo[s]?
 [Rr]eusability
 [Rr]ole[Bb]inding
+[Ss]afespring
 [Ss]andboxed
 [Ss]ervice[Aa]ccount
 [Ss]everability
@@ -261,3 +264,4 @@ xfs
 yaml
 YAML
 Zerotier
+num_workers
