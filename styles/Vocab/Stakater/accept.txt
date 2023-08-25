@@ -101,6 +101,7 @@ EOC
 eppn
 ESXi
 etcd
+ETCD
 Fabrikate
 Falco
 Fluentd
