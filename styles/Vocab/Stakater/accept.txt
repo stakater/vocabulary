@@ -4,8 +4,7 @@
 [Aa]utoscale
 [Aa]utoscalers
 [Aa]utoscaling
-[Bb]aremetal
-bare-metal
+baremetal
 [cC]leura
 [Cc]onfig
 [Cc]onfigmap[s]?
@@ -39,7 +38,7 @@ HAProxy
 [Rr]epo[s]?
 [Rr]eusability
 [Rr]ole[Bb]inding
-[Ss]afespring
+Safespring
 [Ss]andboxed
 [Ss]ervice[Aa]ccount
 [Ss]everability
@@ -102,7 +101,6 @@ EOC
 eppn
 ESXi
 etcd
-ETCD
 Fabrikate
 Falco
 Fluentd
