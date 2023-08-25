@@ -9,6 +9,7 @@ bare-metal
 [cC]leura
 [Cc]onfig
 [Cc]onfigmap[s]?
+CV[s]?
 [Dd]aemonset
 [Dd]eliverable[s]?
 [Dd]eserialize
