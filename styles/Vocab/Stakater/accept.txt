@@ -54,6 +54,7 @@ API[s]?
 apigroup[s]?
 ArgoCD
 auditability
+Auditability
 auditable
 autoscale
 BackupStorageLocation
@@ -117,6 +118,7 @@ Grafana
 Gravatar
 hostname
 HPA
+Hashicorp
 html
 http[s]?
 IDP[s]?
