@@ -118,7 +118,7 @@ Grafana
 Gravatar
 hostname
 HPA
-Hashicorp
+HashiCorp
 html
 http[s]?
 IDP[s]?
