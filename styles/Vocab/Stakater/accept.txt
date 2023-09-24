@@ -220,6 +220,7 @@ Sonatype
 Splunk
 springboot
 SRE[s]?
+SSD[s]?
 StackRox
 stderr
 stdout
