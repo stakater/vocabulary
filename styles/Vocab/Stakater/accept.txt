@@ -12,6 +12,7 @@ CV[s]?
 [Dd]aemonset
 [Dd]eliverable[s]?
 [Dd]eserialize
+[Dd]eprovision
 [Dd]ev
 [Dd]iscoverability
 [eE]xoscale
@@ -39,12 +40,14 @@ HAProxy
 [Rr]eusability
 [Rr]ole[Bb]inding
 Safespring
+[Ss]aap
 [Ss]andboxed
 [Ss]ervice[Aa]ccount
 [Ss]everability
 [Ss]takater
 [sS]ubnet
 [Tt]oolset
+[Tt]no
 [Uu]ncomment
 [Ww]ireguard
 addhost
