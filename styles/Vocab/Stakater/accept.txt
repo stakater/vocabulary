@@ -91,6 +91,7 @@ Descheduler
 dnsmasq
 Docker Hub
 Dockerfile[s]?
+[Dd]owntimes
 DTE[s]?
 ebook[s]?
 Elastx
@@ -103,6 +104,7 @@ ESXi
 etcd
 Fabrikate
 Falco
+[Ff]ika
 Fluentd
 Forecastle
 formatter[s]?
@@ -135,6 +137,7 @@ JMeter
 json
 JSON
 jsonnet
+[Jj]umpstart
 JUnit
 JWT[s]?
 Karlskrona
@@ -153,6 +156,7 @@ Kustomize
 Kyverno
 labelSelector
 learning[s]?
+[Ll]ightbulb
 Linkerd
 Logstash
 MachineSet[s]?
@@ -175,6 +179,7 @@ Nordmart
 npm
 NPM
 NuGet
+num_workers
 OAuth
 oc
 onDelete
@@ -265,8 +270,3 @@ xfs
 yaml
 YAML
 Zerotier
-num_workers
-jumpstart
-lightbulb
-Fika
-downtimes
