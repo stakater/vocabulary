@@ -14,6 +14,7 @@ CV[s]?
 [Dd]eserialize
 [Dd]ev
 [Dd]iscoverability
+[Dd]eprovision
 [eE]xoscale
 [Ff]ailover
 [Hh]elm
@@ -33,12 +34,14 @@ HAProxy
 [Oo]ffboarding
 [Oo]nboarded
 [Oo]nboarding
+[Oo]penmetal
 [Pp]odman
 [Rr]eadiness
 [Rr]epo[s]?
 [Rr]eusability
 [Rr]ole[Bb]inding
 Safespring
+saap
 [Ss]andboxed
 [Ss]ervice[Aa]ccount
 [Ss]everability
