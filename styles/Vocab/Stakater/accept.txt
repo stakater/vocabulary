@@ -270,3 +270,9 @@ xfs
 yaml
 YAML
 Zerotier
+[Kk]afka
+[Pp]luggable
+[Cc]ybersecurity
+[Tt]eardown
+[Ww]ebservice
+URIs
