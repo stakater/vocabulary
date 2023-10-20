@@ -251,8 +251,8 @@ Tronador
 txt
 ubuntu
 UptimeRobot
-URL[s]?
 URI[s]?
+URL[s]?
 utilizations
 uuid
 Vault
