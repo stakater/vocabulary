@@ -83,6 +83,7 @@ CRD[s]?
 cron
 CustomResourceDefinition[s]?
 CVE[s]?
+[Cc]ybersecurity
 Datadog
 declaratively
 deletecollection
@@ -140,6 +141,7 @@ jsonnet
 [Jj]umpstart
 JUnit
 JWT[s]?
+[Kk]afka
 Karlskrona
 Katacoda
 Kiali
@@ -188,6 +190,7 @@ OpenShift
 OpenStack
 PagerDuty
 parameteriz(e|ing)
+[Pp]luggable
 Portworx
 Postgres
 preloaded
@@ -235,6 +238,7 @@ Subnetworks
 sudo
 Sumologic
 Syslog
+[Tt]eardown
 Tekton
 Telco
 tfvars
@@ -247,6 +251,7 @@ Tronador
 txt
 ubuntu
 UptimeRobot
+URI[s]?
 URL[s]?
 utilizations
 uuid
@@ -262,6 +267,7 @@ VPC[s]?
 vpn
 VPN
 webserver
+[Ww]ebservice
 wireframe[s]?
 Wix
 worker_state
