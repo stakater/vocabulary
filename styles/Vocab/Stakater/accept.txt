@@ -219,6 +219,7 @@ SelectorSyncSet
 semver
 serverless
 sharded
+[Ss]howback
 Signup
 SLA[s]?
 SLI[s]?
