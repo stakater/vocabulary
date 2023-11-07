@@ -4,7 +4,7 @@
 [Aa]utoscale
 [Aa]utoscalers
 [Aa]utoscaling
-baremetal
+[Bb]aremetal
 [cC]leura
 [Cc]onfig
 [Cc]onfigmap[s]?
