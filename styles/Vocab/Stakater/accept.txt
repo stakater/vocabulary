@@ -20,6 +20,7 @@
 [Ff]ika
 [Hh]elm
 [Jj]umpstart
+[Kk]amel
 [Kk]afka
 [Kk]anban
 [Kk]eycloak
