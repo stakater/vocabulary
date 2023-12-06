@@ -18,6 +18,8 @@
 [eE]xoscale
 [Ff]ailover
 [Ff]ika
+[Ff]inalizer[s]?
+[Ff]inaliser[s]?
 [Hh]elm
 [Jj]umpstart
 [Kk]amel
