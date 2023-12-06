@@ -18,6 +18,7 @@
 [eE]xoscale
 [Ff]ailover
 [Ff]ika
+[Ff]inali[sz]er[s]?
 [Hh]elm
 [Jj]umpstart
 [Kk]amel
@@ -223,6 +224,7 @@ SelectorSyncSet
 semver
 serverless
 sharded
+[Ss]howback
 Signup
 SLA[s]?
 SLI[s]?
