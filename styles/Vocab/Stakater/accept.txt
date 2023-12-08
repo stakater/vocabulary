@@ -211,6 +211,7 @@ Reloader
 Restic
 RHACS
 roadmap[s]?
+[Rr]ox
 runbook[s]?
 runtime[s]?
 SAAP
@@ -280,4 +281,3 @@ xfs
 yaml
 YAML
 Zerotier
-[Rr]ox
