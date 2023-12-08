@@ -89,7 +89,7 @@ Complior
 CPU
 CR[s]?
 CRD[s]?
-cron
+[Cc]ron
 CustomResourceDefinition[s]?
 CV[s]?
 CVE[s]?
@@ -193,6 +193,7 @@ onDelete
 ontop
 OpenShift
 OpenStack
+[Oo]verengineering
 PagerDuty
 parameteriz(e|ing)
 Portworx
@@ -227,6 +228,7 @@ serverless
 sharded
 [Ss]howback
 Signup
+[Ss]kopeo
 SLA[s]?
 SLI[s]?
 SLO[s]?
