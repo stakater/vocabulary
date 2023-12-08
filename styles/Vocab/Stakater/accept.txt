@@ -72,7 +72,7 @@ Binero
 bluesky
 boolean
 bootable
-buildah
+[Bb]uildah
 buildpack
 Bundler
 Burndown
@@ -280,3 +280,4 @@ xfs
 yaml
 YAML
 Zerotier
+[Rr]ox
