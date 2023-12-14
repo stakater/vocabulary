@@ -5,6 +5,7 @@
 [Aa]utoscalers
 [Aa]utoscaling
 [Bb]aremetal
+[Cc]heckov
 [cC]leura
 [Cc]onfig
 [Cc]onfigmap[s]?
